@@ -1,0 +1,15 @@
+{
+  "name": "google-maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "@types/faker": "^5.5.1",
+    "@types/googlemaps": "^3.43.3",
+    "faker": "^5.5.3",
+    "rxjs": "^6.6.7"
+  }
+}
